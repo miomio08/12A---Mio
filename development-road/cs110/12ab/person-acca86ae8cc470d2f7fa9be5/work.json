@@ -10,9 +10,10 @@
     },
     "draft": {
       "prep": {
-        "repo": "https://github.com/miomio08/12A---Mio"
+        "repo": "https://github.com/miomio08/12A---Mio",
+        "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio"
       },
-      "currentPage": 9
+      "currentPage": 10
     },
     "receipts": [],
     "clocks": [
@@ -32,14 +33,15 @@
   },
   "draft": {
     "prep": {
-      "repo": "https://github.com/miomio08/12A---Mio"
+      "repo": "https://github.com/miomio08/12A---Mio",
+      "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio"
     },
-    "currentPage": 9
+    "currentPage": 10
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 9,
+    "lastPage": 10,
     "timerMinutes": 10
   }
 }
