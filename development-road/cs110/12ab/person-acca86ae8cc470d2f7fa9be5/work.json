@@ -23,7 +23,7 @@
         "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
         "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
       },
-      "currentPage": 21,
+      "currentPage": 22,
       "prepBoard": {
         "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
         "strokes": [
@@ -5483,6 +5483,10 @@
           }
         ],
         "edges": []
+      },
+      "pitch": {
+        "understand": "What I understood about the work today is that it takes collaboration and determination, along with many other things in order to create games. So the expectations I have moving forward from myself and my team is that we will stay organized with our folders and documents, we will create separate tasks and deadlines to get our work done efficiently. And we will do our best to keep learning. The finish line should give us a sense of achievement and everyone should feel fulfilled with the work we've created. ",
+        "offer": "I will "
       }
     },
     "receipts": [
@@ -10998,7 +11002,7 @@
       "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
       "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
     },
-    "currentPage": 21,
+    "currentPage": 22,
     "prepBoard": {
       "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
       "strokes": [
@@ -16458,12 +16462,16 @@
         }
       ],
       "edges": []
+    },
+    "pitch": {
+      "understand": "What I understood about the work today is that it takes collaboration and determination, along with many other things in order to create games. So the expectations I have moving forward from myself and my team is that we will stay organized with our folders and documents, we will create separate tasks and deadlines to get our work done efficiently. And we will do our best to keep learning. The finish line should give us a sense of achievement and everyone should feel fulfilled with the work we've created. ",
+      "offer": "I will "
     }
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 21,
+    "lastPage": 22,
     "timerMinutes": 10
   }
 }
