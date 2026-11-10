@@ -1,0 +1,22 @@
+{
+  "verificationCode": "VIEW-1D0EE6618FF85176E000F76F",
+  "code": "FORM-36881D3E28DC812F9C965C07",
+  "kind": "pitch",
+  "name": "Mio Bal",
+  "person": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+  "issued": "2026-11-10T23:08:49.575Z",
+  "data": {
+    "understand": "What I understood about the work today is that it takes collaboration and determination, along with many other things in order to create games. So the expectations I have moving forward from myself and my team is that we will stay organized with our folders and documents, we will create separate tasks and deadlines to get our work done efficiently. And we will do our best to keep learning. The finish line should give us a sense of achievement and everyone should feel fulfilled with the work we've created.",
+    "offer": "I will bring my creativity and motivation to my team. I personally believe that I am a creative person who comes up with a lot of ideas while brainstorming, I also go off of others opinions. I also enjoy formatting and working with visuals so I also provide that to the team. I want to be someone who will keep everyone else on task, while also completing my own work. For example, if we are working on code for a website, and we assign different roles to everyone, I will make sure the buttons look good, manage the colors and come up with ideas as to what we need to include.",
+    "limits": "Something that I would need to research and don't feel entirely comfortable with is coding. I struggle with this the most so I will be looking forward to learning more about it and to getting help from my teammates who know more about it than I do.",
+    "availability": "Preferred contact: Text\nReach me on Instagram, it's what I use the most.",
+    "tools": "Tools I need include Visual Studio and GoDot/Unity. Visual Studio is what I am most comfortable with using because we worked with it in class. I can use it to make the example website I was talking about. And, I want to learn more about Unity because it is something I am interested in and I feel that it would be useful to know about in this course.",
+    "aiTool": "AI: ChatGPT\nTask: This AI will help us create task-lists, and assist us if we are stuck in certain steps of a project where the whole team doesn't know what to do. This could be helping with generating code or correcting certain code. \nVerification: I will verify the output by discussing it with my team. For the code, I will put it into my system and run it to see if it actually functions the way I want it to.",
+    "ai": {
+      "name": "ChatGPT",
+      "task": "This AI will help us create task-lists, and assist us if we are stuck in certain steps of a project where the whole team doesn't know what to do. This could be helping with generating code or correcting certain code.",
+      "verify": "I will verify the output by discussing it with my team. For the code, I will put it into my system and run it to see if it actually functions the way I want it to."
+    }
+  },
+  "digest": "9410a662a50286d56a54c75fdc28627efe9dbc2f4091d086e447f67557415cd2"
+}
