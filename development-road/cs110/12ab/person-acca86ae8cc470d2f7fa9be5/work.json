@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "course": "CS110",
+  "assignment": "independence-12ab",
+  "state": {
+    "me": {
+      "id": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+      "name": "Mio Bal",
+      "verificationCode": "VIEW-1D0EE6618FF85176E000F76F"
+    },
+    "draft": {
+      "prep": {
+        "repo": "https://github.com/miomio08/12A---Mio"
+      },
+      "currentPage": 9
+    },
+    "receipts": [],
+    "clocks": [
+      {
+        "code": "TIME-37FFAE74CF45602E6AE292FB",
+        "name": "Mio Bal",
+        "day": "A",
+        "arrival": "2026-11-10T21:04:20.187Z",
+        "start": "2026-11-10T20:45:00Z",
+        "calculated": 15,
+        "deduction": 15,
+        "status": "Calculated · awaiting instructor review"
+      }
+    ],
+    "team": null,
+    "invites": []
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/miomio08/12A---Mio"
+    },
+    "currentPage": 9
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 9,
+    "timerMinutes": 10
+  }
+}
