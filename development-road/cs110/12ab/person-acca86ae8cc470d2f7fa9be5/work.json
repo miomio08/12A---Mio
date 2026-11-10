@@ -11,9 +11,11 @@
     "draft": {
       "prep": {
         "repo": "https://github.com/miomio08/12A---Mio",
-        "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio"
+        "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio",
+        "access": "By selecting a specific repository, I ensured that Canvas has access to all my work on GitHub and it creates checkpoints for me. Public VIEW code: VIEW-1D0EE6618FF85176E000F76F",
+        "video1": "Pathway to Pipelines:\n"
       },
-      "currentPage": 10
+      "currentPage": 11
     },
     "receipts": [],
     "clocks": [
@@ -34,14 +36,16 @@
   "draft": {
     "prep": {
       "repo": "https://github.com/miomio08/12A---Mio",
-      "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio"
+      "gitTest": "I added my personal GitHub link to the link section, it checked it and said that my repository is public. Then I selected my 12A repository and approved it. After that, I did a backup to ensure that it works. The evidence is my link, it works and it is public: https://github.com/miomio08/12A---Mio",
+      "access": "By selecting a specific repository, I ensured that Canvas has access to all my work on GitHub and it creates checkpoints for me. Public VIEW code: VIEW-1D0EE6618FF85176E000F76F",
+      "video1": "Pathway to Pipelines:\n"
     },
-    "currentPage": 10
+    "currentPage": 11
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 10,
+    "lastPage": 11,
     "timerMinutes": 10
   }
 }
