@@ -5517,7 +5517,7 @@
         "verify": "I will verify the output by discussing it with my team. For the code, I will put it into my system and run it to see if it actually functions the way I want it to. "
       },
       "huddle": {
-        "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokball at the mobs. "
+        "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. "
       },
       "huddleBoard": {
         "notes": "",
@@ -11109,10 +11109,27 @@
               "status": "Calculated · awaiting instructor review"
             }
           ]
+        },
+        {
+          "id": "PERSON-811015F8BF2381799D3AF13E",
+          "name": "Paul Duarte",
+          "prep": "PREP-A75825354721E7945AE5BF89",
+          "clocks": [
+            {
+              "code": "TIME-EB56D0EBBF2FE04C99E154A7",
+              "name": "Paul Duarte",
+              "day": "A",
+              "arrival": "2026-11-10T21:04:26.730Z",
+              "start": "2026-11-10T20:45:00Z",
+              "calculated": 15,
+              "deduction": 15,
+              "status": "Calculated · awaiting instructor review"
+            }
+          ]
         }
       ],
       "invites": [],
-      "revision": 2,
+      "revision": 3,
       "plan": {},
       "tasks": [],
       "form": null
@@ -16626,7 +16643,7 @@
       "verify": "I will verify the output by discussing it with my team. For the code, I will put it into my system and run it to see if it actually functions the way I want it to. "
     },
     "huddle": {
-      "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokball at the mobs. "
+      "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. "
     },
     "huddleBoard": {
       "notes": "",
