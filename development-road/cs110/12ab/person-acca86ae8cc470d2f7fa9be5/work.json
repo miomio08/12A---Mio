@@ -5519,7 +5519,7 @@
       "huddle": {
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
         "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-        "pipeline": "Unnamed stage\nUnnamed stage\nstory goal\ninputs/assets"
+        "pipeline": "Unnamed stage\nStory goal · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
       },
       "huddleBoard": {
         "notes": "",
@@ -5544,52 +5544,124 @@
             "text": ""
           },
           {
-            "id": "5908ed92-14aa-41fc-afa6-18b70df8a2ef",
+            "id": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
             "kind": "ellipse",
-            "x": 0,
-            "y": 0.18905606725598073,
-            "w": 0.18,
-            "h": 0.14,
-            "color": "#153f48",
-            "text": ""
+            "x": 0.03,
+            "y": 0.29,
+            "w": 0.16,
+            "h": 0.17,
+            "text": "Story goal",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T12:45",
+            "end": "2026-11-10T13:45"
           },
           {
-            "id": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
-            "kind": "ellipse",
-            "x": 0,
-            "y": 0.19012239599431288,
-            "w": 0.18,
-            "h": 0.14,
-            "color": "#153f48",
-            "text": "story goal"
-          },
-          {
-            "id": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+            "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
             "kind": "rect",
-            "x": 0.2336721381029408,
-            "y": 0.283619336094455,
-            "w": 0.18,
-            "h": 0.14,
-            "color": "#153f48",
-            "text": "inputs/assets"
+            "x": 0.225,
+            "y": 0.29,
+            "w": 0.16,
+            "h": 0.17,
+            "text": "Inputs / assets",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T13:45",
+            "end": "2026-11-10T14:45"
+          },
+          {
+            "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
+            "kind": "rect",
+            "x": 0.42000000000000004,
+            "y": 0.29,
+            "w": 0.16,
+            "h": 0.17,
+            "text": "Build + configure",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T14:45",
+            "end": "2026-11-10T15:45"
+          },
+          {
+            "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
+            "kind": "rect",
+            "x": 0.615,
+            "y": 0.29,
+            "w": 0.16,
+            "h": 0.17,
+            "text": "Output / scene",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T15:45",
+            "end": "2026-11-10T16:45"
+          },
+          {
+            "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
+            "kind": "ellipse",
+            "x": 0.81,
+            "y": 0.29,
+            "w": 0.16,
+            "h": 0.17,
+            "text": "Test + handoff",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T16:45",
+            "end": "2026-11-10T17:45"
+          },
+          {
+            "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
+            "kind": "rect",
+            "x": 0.03,
+            "y": 0.56,
+            "w": 0.16,
+            "h": 0.16,
+            "text": "New stage",
+            "color": "#175363",
+            "owner": "",
+            "start": "2026-11-10T17:45",
+            "end": "2026-11-10T18:45"
           }
         ],
         "edges": [
           {
-            "id": "7d768292-9683-4dd0-8a16-fd1fa59d1c1a",
-            "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
-            "fromPort": "w",
-            "to": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
-            "toPort": "s",
-            "color": "#153f48"
+            "id": "e274c91e-ec8b-402d-a1d3-78c5631b0ff9",
+            "from": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
+            "fromPort": "e",
+            "to": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
+            "toPort": "w",
+            "color": "#175363"
           },
           {
-            "id": "cfc62d55-15d0-4ec0-97a9-0154d2e816d2",
-            "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
-            "fromPort": "w",
-            "to": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
-            "toPort": "n",
-            "color": "#153f48"
+            "id": "22de1965-d48e-4bc6-ba61-158b15431610",
+            "from": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
+            "fromPort": "e",
+            "to": "8d259ec0-6510-4470-8592-6f568f3ee732",
+            "toPort": "w",
+            "color": "#175363"
+          },
+          {
+            "id": "9530bc5b-89b3-4c43-ac06-70827d8b91ca",
+            "from": "8d259ec0-6510-4470-8592-6f568f3ee732",
+            "fromPort": "e",
+            "to": "7c8df198-0773-43a7-987f-30b10ca856f2",
+            "toPort": "w",
+            "color": "#175363"
+          },
+          {
+            "id": "d660ea5e-1d72-4368-8222-39d214d6699e",
+            "from": "7c8df198-0773-43a7-987f-30b10ca856f2",
+            "fromPort": "e",
+            "to": "1bc39285-7fec-4e05-b708-693c918ad66e",
+            "toPort": "w",
+            "color": "#175363"
+          },
+          {
+            "id": "f813bc9a-1636-4022-8c1e-6b023f9d9165",
+            "from": "1bc39285-7fec-4e05-b708-693c918ad66e",
+            "fromPort": "e",
+            "to": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
+            "toPort": "w",
+            "color": "#175363"
           }
         ],
         "pen": {
@@ -16709,7 +16781,7 @@
     "huddle": {
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
       "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-      "pipeline": "Unnamed stage\nUnnamed stage\nstory goal\ninputs/assets"
+      "pipeline": "Unnamed stage\nStory goal · 2026-11-10T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
     },
     "huddleBoard": {
       "notes": "",
@@ -16734,52 +16806,124 @@
           "text": ""
         },
         {
-          "id": "5908ed92-14aa-41fc-afa6-18b70df8a2ef",
+          "id": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
           "kind": "ellipse",
-          "x": 0,
-          "y": 0.18905606725598073,
-          "w": 0.18,
-          "h": 0.14,
-          "color": "#153f48",
-          "text": ""
+          "x": 0.03,
+          "y": 0.29,
+          "w": 0.16,
+          "h": 0.17,
+          "text": "Story goal",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T12:45",
+          "end": "2026-11-10T13:45"
         },
         {
-          "id": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
-          "kind": "ellipse",
-          "x": 0,
-          "y": 0.19012239599431288,
-          "w": 0.18,
-          "h": 0.14,
-          "color": "#153f48",
-          "text": "story goal"
-        },
-        {
-          "id": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+          "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
           "kind": "rect",
-          "x": 0.2336721381029408,
-          "y": 0.283619336094455,
-          "w": 0.18,
-          "h": 0.14,
-          "color": "#153f48",
-          "text": "inputs/assets"
+          "x": 0.225,
+          "y": 0.29,
+          "w": 0.16,
+          "h": 0.17,
+          "text": "Inputs / assets",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T13:45",
+          "end": "2026-11-10T14:45"
+        },
+        {
+          "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
+          "kind": "rect",
+          "x": 0.42000000000000004,
+          "y": 0.29,
+          "w": 0.16,
+          "h": 0.17,
+          "text": "Build + configure",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T14:45",
+          "end": "2026-11-10T15:45"
+        },
+        {
+          "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
+          "kind": "rect",
+          "x": 0.615,
+          "y": 0.29,
+          "w": 0.16,
+          "h": 0.17,
+          "text": "Output / scene",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T15:45",
+          "end": "2026-11-10T16:45"
+        },
+        {
+          "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
+          "kind": "ellipse",
+          "x": 0.81,
+          "y": 0.29,
+          "w": 0.16,
+          "h": 0.17,
+          "text": "Test + handoff",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T16:45",
+          "end": "2026-11-10T17:45"
+        },
+        {
+          "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
+          "kind": "rect",
+          "x": 0.03,
+          "y": 0.56,
+          "w": 0.16,
+          "h": 0.16,
+          "text": "New stage",
+          "color": "#175363",
+          "owner": "",
+          "start": "2026-11-10T17:45",
+          "end": "2026-11-10T18:45"
         }
       ],
       "edges": [
         {
-          "id": "7d768292-9683-4dd0-8a16-fd1fa59d1c1a",
-          "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
-          "fromPort": "w",
-          "to": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
-          "toPort": "s",
-          "color": "#153f48"
+          "id": "e274c91e-ec8b-402d-a1d3-78c5631b0ff9",
+          "from": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
+          "fromPort": "e",
+          "to": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
+          "toPort": "w",
+          "color": "#175363"
         },
         {
-          "id": "cfc62d55-15d0-4ec0-97a9-0154d2e816d2",
-          "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
-          "fromPort": "w",
-          "to": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
-          "toPort": "n",
-          "color": "#153f48"
+          "id": "22de1965-d48e-4bc6-ba61-158b15431610",
+          "from": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
+          "fromPort": "e",
+          "to": "8d259ec0-6510-4470-8592-6f568f3ee732",
+          "toPort": "w",
+          "color": "#175363"
+        },
+        {
+          "id": "9530bc5b-89b3-4c43-ac06-70827d8b91ca",
+          "from": "8d259ec0-6510-4470-8592-6f568f3ee732",
+          "fromPort": "e",
+          "to": "7c8df198-0773-43a7-987f-30b10ca856f2",
+          "toPort": "w",
+          "color": "#175363"
+        },
+        {
+          "id": "d660ea5e-1d72-4368-8222-39d214d6699e",
+          "from": "7c8df198-0773-43a7-987f-30b10ca856f2",
+          "fromPort": "e",
+          "to": "1bc39285-7fec-4e05-b708-693c918ad66e",
+          "toPort": "w",
+          "color": "#175363"
+        },
+        {
+          "id": "f813bc9a-1636-4022-8c1e-6b023f9d9165",
+          "from": "1bc39285-7fec-4e05-b708-693c918ad66e",
+          "fromPort": "e",
+          "to": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
+          "toPort": "w",
+          "color": "#175363"
         }
       ],
       "pen": {
