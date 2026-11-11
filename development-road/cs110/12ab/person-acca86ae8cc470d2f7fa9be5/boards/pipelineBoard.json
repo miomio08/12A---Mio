@@ -12,7 +12,58 @@
       "h": 0.14,
       "color": "#153f48",
       "text": ""
+    },
+    {
+      "id": "5908ed92-14aa-41fc-afa6-18b70df8a2ef",
+      "kind": "ellipse",
+      "x": 0,
+      "y": 0.18905606725598073,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": ""
+    },
+    {
+      "id": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+      "kind": "ellipse",
+      "x": 0,
+      "y": 0.19012239599431288,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "story goal"
+    },
+    {
+      "id": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+      "kind": "rect",
+      "x": 0.2336721381029408,
+      "y": 0.283619336094455,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "inputs/assets"
     }
   ],
-  "edges": []
+  "edges": [
+    {
+      "id": "7d768292-9683-4dd0-8a16-fd1fa59d1c1a",
+      "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+      "fromPort": "w",
+      "to": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+      "toPort": "s",
+      "color": "#153f48"
+    },
+    {
+      "id": "cfc62d55-15d0-4ec0-97a9-0154d2e816d2",
+      "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+      "fromPort": "w",
+      "to": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+      "toPort": "n",
+      "color": "#153f48"
+    }
+  ],
+  "pen": {
+    "color": "#153f48",
+    "size": 1
+  }
 }

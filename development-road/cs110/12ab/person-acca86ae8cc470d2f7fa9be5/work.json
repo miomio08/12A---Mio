@@ -24,7 +24,7 @@
         "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
         "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
       },
-      "currentPage": 30,
+      "currentPage": 31,
       "prepBoard": {
         "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
         "strokes": [
@@ -5518,8 +5518,8 @@
       },
       "huddle": {
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
-        "framework": "My team and I chose the P2P ",
-        "pipeline": "Unnamed stage"
+        "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
+        "pipeline": "Unnamed stage\nUnnamed stage\nstory goal\ninputs/assets"
       },
       "huddleBoard": {
         "notes": "",
@@ -5542,9 +5542,60 @@
             "h": 0.14,
             "color": "#153f48",
             "text": ""
+          },
+          {
+            "id": "5908ed92-14aa-41fc-afa6-18b70df8a2ef",
+            "kind": "ellipse",
+            "x": 0,
+            "y": 0.18905606725598073,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": ""
+          },
+          {
+            "id": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+            "kind": "ellipse",
+            "x": 0,
+            "y": 0.19012239599431288,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "story goal"
+          },
+          {
+            "id": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+            "kind": "rect",
+            "x": 0.2336721381029408,
+            "y": 0.283619336094455,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "inputs/assets"
           }
         ],
-        "edges": []
+        "edges": [
+          {
+            "id": "7d768292-9683-4dd0-8a16-fd1fa59d1c1a",
+            "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+            "fromPort": "w",
+            "to": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+            "toPort": "s",
+            "color": "#153f48"
+          },
+          {
+            "id": "cfc62d55-15d0-4ec0-97a9-0154d2e816d2",
+            "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+            "fromPort": "w",
+            "to": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+            "toPort": "n",
+            "color": "#153f48"
+          }
+        ],
+        "pen": {
+          "color": "#153f48",
+          "size": 1
+        }
       },
       "tasks": [],
       "planRevision": 2
@@ -11163,7 +11214,7 @@
       "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
       "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
     },
-    "currentPage": 30,
+    "currentPage": 31,
     "prepBoard": {
       "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
       "strokes": [
@@ -16657,8 +16708,8 @@
     },
     "huddle": {
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
-      "framework": "My team and I chose the P2P ",
-      "pipeline": "Unnamed stage"
+      "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
+      "pipeline": "Unnamed stage\nUnnamed stage\nstory goal\ninputs/assets"
     },
     "huddleBoard": {
       "notes": "",
@@ -16681,9 +16732,60 @@
           "h": 0.14,
           "color": "#153f48",
           "text": ""
+        },
+        {
+          "id": "5908ed92-14aa-41fc-afa6-18b70df8a2ef",
+          "kind": "ellipse",
+          "x": 0,
+          "y": 0.18905606725598073,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+          "kind": "ellipse",
+          "x": 0,
+          "y": 0.19012239599431288,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "story goal"
+        },
+        {
+          "id": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+          "kind": "rect",
+          "x": 0.2336721381029408,
+          "y": 0.283619336094455,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "inputs/assets"
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "7d768292-9683-4dd0-8a16-fd1fa59d1c1a",
+          "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+          "fromPort": "w",
+          "to": "2b9198a6-6b4e-4255-b6f1-e5edbac07bac",
+          "toPort": "s",
+          "color": "#153f48"
+        },
+        {
+          "id": "cfc62d55-15d0-4ec0-97a9-0154d2e816d2",
+          "from": "102dd19b-ce6d-48b1-ab2a-7aa22d077943",
+          "fromPort": "w",
+          "to": "99a9aabf-0dcc-43ed-81df-bd0e04e1edde",
+          "toPort": "n",
+          "color": "#153f48"
+        }
+      ],
+      "pen": {
+        "color": "#153f48",
+        "size": 1
+      }
     },
     "tasks": [],
     "planRevision": 2
@@ -16691,7 +16793,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 30,
+    "lastPage": 31,
     "timerMinutes": 10
   }
 }
