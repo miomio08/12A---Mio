@@ -2,6 +2,27 @@
   "notes": "",
   "strokes": [],
   "images": [],
-  "nodes": [],
+  "nodes": [
+    {
+      "id": "a8bdbc9e-40be-4188-9a31-e9e481dcb9a1",
+      "kind": "text",
+      "x": 0,
+      "y": 0.11986100769421693,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "Jonathan"
+    },
+    {
+      "id": "d5108378-1bf4-41cb-bd54-c72477f9d543",
+      "kind": "text",
+      "x": 0,
+      "y": 0.38098039215686275,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "Mio"
+    }
+  ],
   "edges": []
 }
