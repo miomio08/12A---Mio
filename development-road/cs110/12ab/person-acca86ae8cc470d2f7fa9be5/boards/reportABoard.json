@@ -1,0 +1,18 @@
+{
+  "notes": "",
+  "strokes": [],
+  "images": [],
+  "nodes": [
+    {
+      "id": "1f34d1b9-57de-41e7-a661-3a0ef605abfc",
+      "kind": "text",
+      "x": 0,
+      "y": 0.1455398752871677,
+      "w": 0.18,
+      "h": 0.14,
+      "color": "#153f48",
+      "text": "player and controls"
+    }
+  ],
+  "edges": []
+}
