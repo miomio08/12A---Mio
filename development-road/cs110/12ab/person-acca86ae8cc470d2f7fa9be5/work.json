@@ -5519,7 +5519,7 @@
       "huddle": {
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
         "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
       },
       "huddleBoard": {
         "notes": "",
@@ -5553,8 +5553,8 @@
             "text": "Background",
             "color": "#175363",
             "owner": "Jonathan",
-            "start": "2026-11-11T12:45",
-            "end": "2026-11-10T13:45"
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
@@ -16781,7 +16781,7 @@
     "huddle": {
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
       "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T12:45 to 2026-11-10T13:45 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
     },
     "huddleBoard": {
       "notes": "",
@@ -16815,8 +16815,8 @@
           "text": "Background",
           "color": "#175363",
           "owner": "Jonathan",
-          "start": "2026-11-11T12:45",
-          "end": "2026-11-10T13:45"
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
