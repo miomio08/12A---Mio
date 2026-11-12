@@ -24,7 +24,7 @@
         "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
         "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
       },
-      "currentPage": 32,
+      "currentPage": 33,
       "prepBoard": {
         "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
         "strokes": [
@@ -5520,7 +5520,8 @@
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
         "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
         "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-        "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with."
+        "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
+        "code": "Classes & components\nClass | Responsibility | GameObject\n |  | \n\nVariables / properties\nName : type | Value / purpose | Used by\n |  | "
       },
       "huddleBoard": {
         "notes": "",
@@ -5650,7 +5651,59 @@
         }
       },
       "tasks": [],
-      "planRevision": 2
+      "planRevision": 2,
+      "codeTables": [
+        {
+          "id": "9ca15ba0-4d01-4ef5-aeff-b174b47cbb7d",
+          "title": "Classes & components",
+          "columns": [
+            {
+              "label": "Class",
+              "type": "text"
+            },
+            {
+              "label": "Responsibility",
+              "type": "text"
+            },
+            {
+              "label": "GameObject",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "id": "1fea972d-9454-4248-a90d-67fa072c18df",
+          "title": "Variables / properties",
+          "columns": [
+            {
+              "label": "Name : type",
+              "type": "text"
+            },
+            {
+              "label": "Value / purpose",
+              "type": "text"
+            },
+            {
+              "label": "Used by",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ]
     },
     "receipts": [
       {
@@ -11266,7 +11319,7 @@
       "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
       "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
     },
-    "currentPage": 32,
+    "currentPage": 33,
     "prepBoard": {
       "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
       "strokes": [
@@ -16762,7 +16815,8 @@
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
       "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
       "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground: (Jonathan)\nLearn the lore from both source materials (Minecraft and Pokemon). Build the world of minecraft, a free roam where the main character is a combination of Ash and Steve.\n\nAssets: (Mio)\nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias) \nBuild/configure: Put the blocky world together, add an Ash-Steve character so he can walk around, and set up the basic controls for throwing Pokéballs and catching Pokémon as well of building like in a Minecraft world.\n\nOutput: (Daniel)\nThe output is for are mod to allow the player/consumer to be able to throw a poke ball to a Minecraft mob it will also make a custom world when loaded for the player with bits of Pokémon while still looking like Minecraft.\n\nResults: (Paul)\nResults - We have achieved the results we wanted. We wanted to make a mod pack for the video game Minecraft where we added a poke-ball from Pokemon.",
-      "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with."
+      "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
+      "code": "Classes & components\nClass | Responsibility | GameObject\n |  | \n\nVariables / properties\nName : type | Value / purpose | Used by\n |  | "
     },
     "huddleBoard": {
       "notes": "",
@@ -16892,12 +16946,64 @@
       }
     },
     "tasks": [],
-    "planRevision": 2
+    "planRevision": 2,
+    "codeTables": [
+      {
+        "id": "9ca15ba0-4d01-4ef5-aeff-b174b47cbb7d",
+        "title": "Classes & components",
+        "columns": [
+          {
+            "label": "Class",
+            "type": "text"
+          },
+          {
+            "label": "Responsibility",
+            "type": "text"
+          },
+          {
+            "label": "GameObject",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "1fea972d-9454-4248-a90d-67fa072c18df",
+        "title": "Variables / properties",
+        "columns": [
+          {
+            "label": "Name : type",
+            "type": "text"
+          },
+          {
+            "label": "Value / purpose",
+            "type": "text"
+          },
+          {
+            "label": "Used by",
+            "type": "text"
+          }
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    ]
   },
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 32,
+    "lastPage": 33,
     "timerMinutes": 10
   }
 }
