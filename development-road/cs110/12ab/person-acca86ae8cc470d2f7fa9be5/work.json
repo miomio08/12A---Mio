@@ -5519,7 +5519,7 @@
       "huddle": {
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
         "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground: (Jonathan)\n\nAssets: \nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias)\n\nOutput: ()\n"
       },
       "huddleBoard": {
         "notes": "",
@@ -5529,7 +5529,7 @@
         "edges": []
       },
       "pipelineBoard": {
-        "notes": "",
+        "notes": "Background: (Jonathan)\n\nAssets: \nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias)\n\nOutput: ()\n",
         "strokes": [],
         "images": [],
         "nodes": [
@@ -5546,8 +5546,8 @@
           {
             "id": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
             "kind": "ellipse",
-            "x": 0.03,
-            "y": 0.29,
+            "x": 0.0385522061766789,
+            "y": 0.07032926634343861,
             "w": 0.16,
             "h": 0.17,
             "text": "Background",
@@ -5559,8 +5559,8 @@
           {
             "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
             "kind": "rect",
-            "x": 0.225,
-            "y": 0.29,
+            "x": 0.21914200819041169,
+            "y": 0.32353934679524754,
             "w": 0.16,
             "h": 0.17,
             "text": "Assets",
@@ -5572,8 +5572,8 @@
           {
             "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
             "kind": "rect",
-            "x": 0.42000000000000004,
-            "y": 0.29,
+            "x": 0.42683560673707555,
+            "y": 0.4952053918695722,
             "w": 0.16,
             "h": 0.17,
             "text": "Body Frame",
@@ -5585,8 +5585,8 @@
           {
             "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
             "kind": "rect",
-            "x": 0.615,
-            "y": 0.29,
+            "x": 0.6285249561227947,
+            "y": 0.5915610847674357,
             "w": 0.16,
             "h": 0.17,
             "text": "Output",
@@ -5598,8 +5598,8 @@
           {
             "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
             "kind": "ellipse",
-            "x": 0.81,
-            "y": 0.29,
+            "x": 0.8267426178526343,
+            "y": 0.5259475731258991,
             "w": 0.16,
             "h": 0.17,
             "text": "Results",
@@ -5607,19 +5607,6 @@
             "owner": "Paul",
             "start": "2026-11-11T15:45",
             "end": "2026-11-11T16:30"
-          },
-          {
-            "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
-            "kind": "rect",
-            "x": 0.03,
-            "y": 0.56,
-            "w": 0.16,
-            "h": 0.16,
-            "text": "New stage",
-            "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T17:45",
-            "end": "2026-11-10T18:45"
           }
         ],
         "edges": [
@@ -5652,14 +5639,6 @@
             "from": "7c8df198-0773-43a7-987f-30b10ca856f2",
             "fromPort": "e",
             "to": "1bc39285-7fec-4e05-b708-693c918ad66e",
-            "toPort": "w",
-            "color": "#175363"
-          },
-          {
-            "id": "f813bc9a-1636-4022-8c1e-6b023f9d9165",
-            "from": "1bc39285-7fec-4e05-b708-693c918ad66e",
-            "fromPort": "e",
-            "to": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
             "toPort": "w",
             "color": "#175363"
           }
@@ -16781,7 +16760,7 @@
     "huddle": {
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
       "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBackground: (Jonathan)\n\nAssets: \nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias)\n\nOutput: ()\n"
     },
     "huddleBoard": {
       "notes": "",
@@ -16791,7 +16770,7 @@
       "edges": []
     },
     "pipelineBoard": {
-      "notes": "",
+      "notes": "Background: (Jonathan)\n\nAssets: \nAssets: Getting the elements that will be edited and used in the creation of the mod: - Characters, text, animation, 3d models, fonts, audio, etc. Obtaining everything that will be used in order to achieve the results, aka also the things the audience will view.\n\nBody Frame: (Isaias)\n\nOutput: ()\n",
       "strokes": [],
       "images": [],
       "nodes": [
@@ -16808,8 +16787,8 @@
         {
           "id": "19b0a4d8-211e-42cf-a0b8-72b4798f1672",
           "kind": "ellipse",
-          "x": 0.03,
-          "y": 0.29,
+          "x": 0.0385522061766789,
+          "y": 0.07032926634343861,
           "w": 0.16,
           "h": 0.17,
           "text": "Background",
@@ -16821,8 +16800,8 @@
         {
           "id": "c1f8fa1f-bdad-405b-be07-afb088b0346e",
           "kind": "rect",
-          "x": 0.225,
-          "y": 0.29,
+          "x": 0.21914200819041169,
+          "y": 0.32353934679524754,
           "w": 0.16,
           "h": 0.17,
           "text": "Assets",
@@ -16834,8 +16813,8 @@
         {
           "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
           "kind": "rect",
-          "x": 0.42000000000000004,
-          "y": 0.29,
+          "x": 0.42683560673707555,
+          "y": 0.4952053918695722,
           "w": 0.16,
           "h": 0.17,
           "text": "Body Frame",
@@ -16847,8 +16826,8 @@
         {
           "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
           "kind": "rect",
-          "x": 0.615,
-          "y": 0.29,
+          "x": 0.6285249561227947,
+          "y": 0.5915610847674357,
           "w": 0.16,
           "h": 0.17,
           "text": "Output",
@@ -16860,8 +16839,8 @@
         {
           "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
           "kind": "ellipse",
-          "x": 0.81,
-          "y": 0.29,
+          "x": 0.8267426178526343,
+          "y": 0.5259475731258991,
           "w": 0.16,
           "h": 0.17,
           "text": "Results",
@@ -16869,19 +16848,6 @@
           "owner": "Paul",
           "start": "2026-11-11T15:45",
           "end": "2026-11-11T16:30"
-        },
-        {
-          "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
-          "kind": "rect",
-          "x": 0.03,
-          "y": 0.56,
-          "w": 0.16,
-          "h": 0.16,
-          "text": "New stage",
-          "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T17:45",
-          "end": "2026-11-10T18:45"
         }
       ],
       "edges": [
@@ -16914,14 +16880,6 @@
           "from": "7c8df198-0773-43a7-987f-30b10ca856f2",
           "fromPort": "e",
           "to": "1bc39285-7fec-4e05-b708-693c918ad66e",
-          "toPort": "w",
-          "color": "#175363"
-        },
-        {
-          "id": "f813bc9a-1636-4022-8c1e-6b023f9d9165",
-          "from": "1bc39285-7fec-4e05-b708-693c918ad66e",
-          "fromPort": "e",
-          "to": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
           "toPort": "w",
           "color": "#175363"
         }
