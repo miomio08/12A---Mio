@@ -6038,6 +6038,30 @@
           "due": "2026-11-12T20:30",
           "done": false,
           "result": ""
+        },
+        {
+          "id": "0e47d214-58b3-483f-a154-b236b40c4324",
+          "task": "Find the assets",
+          "owner": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+          "due": "2026-11-12T20:30",
+          "done": false,
+          "result": ""
+        },
+        {
+          "id": "29b4183a-4494-4983-b1be-ad0085898fea",
+          "task": "Check output",
+          "owner": "PERSON-32DB4A42A2AF226E95A2B700",
+          "due": "2026-11-12T20:30",
+          "done": false,
+          "result": ""
+        },
+        {
+          "id": "893ed78f-8748-44e5-9d47-19b8ffa49877",
+          "task": "Test end results",
+          "owner": "PERSON-811015F8BF2381799D3AF13E",
+          "due": "2026-11-12T20:30",
+          "done": false,
+          "result": ""
         }
       ],
       "planRevision": 2,
@@ -17801,6 +17825,30 @@
         "id": "d4c98ed5-1007-4497-903a-ba66c8a88bb3",
         "task": "Build the background",
         "owner": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+        "due": "2026-11-12T20:30",
+        "done": false,
+        "result": ""
+      },
+      {
+        "id": "0e47d214-58b3-483f-a154-b236b40c4324",
+        "task": "Find the assets",
+        "owner": "PERSON-ACCA86AE8CC470D2F7FA9BE5",
+        "due": "2026-11-12T20:30",
+        "done": false,
+        "result": ""
+      },
+      {
+        "id": "29b4183a-4494-4983-b1be-ad0085898fea",
+        "task": "Check output",
+        "owner": "PERSON-32DB4A42A2AF226E95A2B700",
+        "due": "2026-11-12T20:30",
+        "done": false,
+        "result": ""
+      },
+      {
+        "id": "893ed78f-8748-44e5-9d47-19b8ffa49877",
+        "task": "Test end results",
+        "owner": "PERSON-811015F8BF2381799D3AF13E",
         "due": "2026-11-12T20:30",
         "done": false,
         "result": ""
