@@ -24,7 +24,7 @@
         "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
         "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
       },
-      "currentPage": 35,
+      "currentPage": 36,
       "prepBoard": {
         "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
         "strokes": [
@@ -5523,7 +5523,8 @@
         "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
         "code": "Classes & components\nClass | Responsibility | GameObject\nPokeBallItem | allows player to throw poke balls | Poke ball\nMobCaptureSystem | detect and capture mobs | Minecraft mob\nPokemonBiome | adds pokemon themed biomes | Biomes\nPokemonStructures | Generate pokemon-themed structures | World Structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeBallCount : int | Number of Poké Balls the player has | PokeBallItem\ncaptureChance : float | Determines the chance of capturing a mob | MobCaptureSystem\nbiomeType : String | Determines which Pokémon-inspired biome generates | PokemonBiome\nworldSeed : long | Helps generate the custom Pokémon-inspired world | PokemonWorldGenerator",
         "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\ntuesdays and thursdays | 2026-11-11T18:00 | [x]\n\nWorking agreements\nAgreement | Owner / where recorded | Confirmed\nwednesdays | discord calls at 8:00pm | [x]",
-        "reuse": "We can reuse the organization pattern we are learning/learned from the 1-6 videos we saw on game development using Unity and Talsta. We would also continue to use ChatGPT as a tool to keep us on track and help with things we do not know yet. We can also reuse the story element to build upon what we have and use the skills we have learned."
+        "reuse": "We can reuse the organization pattern we are learning/learned from the 1-6 videos we saw on game development using Unity and Talsta. We would also continue to use ChatGPT as a tool to keep us on track and help with things we do not know yet. We can also reuse the story element to build upon what we have and use the skills we have learned.",
+        "boardNotes": "We all had planned to call over Zoom, however, we ran into technical difficulties so we decided to switch to Discord instead. We were on a call for over 2 hours working out our goals and coming up with ideas for our creation. We talked about what elements we want to include in our game, and we also created task boards to help us stay organized. We gave each other different jobs so we can work on separate things, we also discussed how we will be moving forward from this point on as a team. "
       },
       "huddleBoard": {
         "notes": "",
@@ -11403,7 +11404,7 @@
       "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
       "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
     },
-    "currentPage": 35,
+    "currentPage": 36,
     "prepBoard": {
       "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
       "strokes": [
@@ -16902,7 +16903,8 @@
       "tech": "As a team we have chosen to use unity as the main engine for our game because of our knowledge in C#. We are also going to be using Unity Hub and Package manager. We chose this because based on the lesson videos we saw, we learned a few things about characters and how to create a functioning game, so we have information to get started. Additionally, it is also because we felt that it would be easiest to work with.",
       "code": "Classes & components\nClass | Responsibility | GameObject\nPokeBallItem | allows player to throw poke balls | Poke ball\nMobCaptureSystem | detect and capture mobs | Minecraft mob\nPokemonBiome | adds pokemon themed biomes | Biomes\nPokemonStructures | Generate pokemon-themed structures | World Structures\n\nVariables / properties\nName : type | Value / purpose | Used by\npokeBallCount : int | Number of Poké Balls the player has | PokeBallItem\ncaptureChance : float | Determines the chance of capturing a mob | MobCaptureSystem\nbiomeType : String | Determines which Pokémon-inspired biome generates | PokemonBiome\nworldSeed : long | Helps generate the custom Pokémon-inspired world | PokemonWorldGenerator",
       "communication": "Team check-ins\nDescription / contact / owner | When · Pacific | Agreed\ntuesdays and thursdays | 2026-11-11T18:00 | [x]\n\nWorking agreements\nAgreement | Owner / where recorded | Confirmed\nwednesdays | discord calls at 8:00pm | [x]",
-      "reuse": "We can reuse the organization pattern we are learning/learned from the 1-6 videos we saw on game development using Unity and Talsta. We would also continue to use ChatGPT as a tool to keep us on track and help with things we do not know yet. We can also reuse the story element to build upon what we have and use the skills we have learned."
+      "reuse": "We can reuse the organization pattern we are learning/learned from the 1-6 videos we saw on game development using Unity and Talsta. We would also continue to use ChatGPT as a tool to keep us on track and help with things we do not know yet. We can also reuse the story element to build upon what we have and use the skills we have learned.",
+      "boardNotes": "We all had planned to call over Zoom, however, we ran into technical difficulties so we decided to switch to Discord instead. We were on a call for over 2 hours working out our goals and coming up with ideas for our creation. We talked about what elements we want to include in our game, and we also created task boards to help us stay organized. We gave each other different jobs so we can work on separate things, we also discussed how we will be moving forward from this point on as a team. "
     },
     "huddleBoard": {
       "notes": "",
@@ -17171,7 +17173,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 35,
+    "lastPage": 36,
     "timerMinutes": 10
   }
 }
