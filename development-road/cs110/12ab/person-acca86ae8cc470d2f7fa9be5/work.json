@@ -24,7 +24,7 @@
         "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
         "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
       },
-      "currentPage": 37,
+      "currentPage": 38,
       "prepBoard": {
         "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
         "strokes": [
@@ -5527,8 +5527,264 @@
         "boardNotes": "We all had planned to call over Zoom, however, we ran into technical difficulties so we decided to switch to Discord instead. We were on a call for over 2 hours working out our goals and coming up with ideas for our creation. We talked about what elements we want to include in our game, and we also created task boards to help us stay organized. We gave each other different jobs so we can work on separate things, we also discussed how we will be moving forward from this point on as a team. "
       },
       "huddleBoard": {
-        "notes": "",
-        "strokes": [],
+        "notes": "The jobs everyone will be performing:",
+        "strokes": [
+          {
+            "tool": "pen",
+            "color": "#153f48",
+            "width": 5.286343612334802,
+            "points": [
+              [
+                0.15777188998233663,
+                0.18432381612153
+              ],
+              [
+                0.15810451219232446,
+                0.18432381612153
+              ],
+              [
+                0.1612701580528984,
+                0.18432381612153
+              ],
+              [
+                0.16596127818686487,
+                0.18432381612153
+              ],
+              [
+                0.17018787419998624,
+                0.18432381612153
+              ],
+              [
+                0.17532631385772945,
+                0.18432381612153
+              ],
+              [
+                0.18057371596357213,
+                0.18432381612153
+              ],
+              [
+                0.18496662308168743,
+                0.18521450838735218
+              ],
+              [
+                0.1879946321657147,
+                0.18578356177940522
+              ],
+              [
+                0.1909423531300897,
+                0.18601860557177496
+              ],
+              [
+                0.19400477140825362,
+                0.18601860557177496
+              ],
+              [
+                0.19638474066937353,
+                0.18601860557177496
+              ],
+              [
+                0.19794462413690272,
+                0.18601860557177496
+              ],
+              [
+                0.19910306700617073,
+                0.18629076154188728
+              ],
+              [
+                0.19929805243961188,
+                0.18827007768815873
+              ]
+            ]
+          },
+          {
+            "tool": "pen",
+            "color": "#153f48",
+            "width": 5.286343612334802,
+            "points": [
+              [
+                0.14786777693666414,
+                0.33861150972339055
+              ],
+              [
+                0.15104489252861697,
+                0.33861150972339055
+              ],
+              [
+                0.15524854907898056,
+                0.33861150972339055
+              ],
+              [
+                0.160891656917395,
+                0.33861150972339055
+              ],
+              [
+                0.1713405822035648,
+                0.33861150972339055
+              ],
+              [
+                0.1788704608538068,
+                0.33861150972339055
+              ],
+              [
+                0.18551143532218475,
+                0.33861150972339055
+              ],
+              [
+                0.19196889408850046,
+                0.33861150972339055
+              ],
+              [
+                0.1969754318353864,
+                0.33861150972339055
+              ],
+              [
+                0.20121349757988669,
+                0.33861150972339055
+              ],
+              [
+                0.20452251508269675,
+                0.33904448513038743
+              ],
+              [
+                0.20509600165164132,
+                0.3408877232916028
+              ]
+            ]
+          },
+          {
+            "tool": "pen",
+            "color": "#153f48",
+            "width": 5.286343612334802,
+            "points": [
+              [
+                0.15057463354208245,
+                0.49429709535355537
+              ],
+              [
+                0.1526219805932145,
+                0.49429709535355537
+              ],
+              [
+                0.15864358956713234,
+                0.49429709535355537
+              ],
+              [
+                0.1629160645057693,
+                0.49429709535355537
+              ],
+              [
+                0.17065813318652076,
+                0.49429709535355537
+              ],
+              [
+                0.17749982795402933,
+                0.49429709535355537
+              ],
+              [
+                0.18490927442479296,
+                0.49429709535355537
+              ],
+              [
+                0.19582272383180785,
+                0.49355485179870356
+              ],
+              [
+                0.2011676186543711,
+                0.49328269582859124
+              ],
+              [
+                0.20272176725621086,
+                0.49328269582859124
+              ]
+            ]
+          },
+          {
+            "tool": "pen",
+            "color": "#153f48",
+            "width": 5.286343612334802,
+            "points": [
+              [
+                0.1489803408804166,
+                0.6741179672423178
+              ],
+              [
+                0.151148120111027,
+                0.6741179672423178
+              ],
+              [
+                0.16461358474984517,
+                0.6741179672423178
+              ],
+              [
+                0.17618080884545684,
+                0.6741179672423178
+              ],
+              [
+                0.18334939095726377,
+                0.6741179672423178
+              ],
+              [
+                0.1893079164085977,
+                0.6741179672423178
+              ],
+              [
+                0.1984492923175739,
+                0.6741179672423178
+              ],
+              [
+                0.20243502397173857,
+                0.6741179672423178
+              ],
+              [
+                0.2043504691120134,
+                0.6744890890197437
+              ]
+            ]
+          },
+          {
+            "tool": "pen",
+            "color": "#153f48",
+            "width": 5.286343612334802,
+            "points": [
+              [
+                0.14438097859748125,
+                0.8475802860111832
+              ],
+              [
+                0.1445415548367857,
+                0.8475802860111832
+              ],
+              [
+                0.1543825843598743,
+                0.8475802860111832
+              ],
+              [
+                0.16516413185603193,
+                0.8460339452719086
+              ],
+              [
+                0.17756864634230266,
+                0.84424019001435
+              ],
+              [
+                0.18736379693987568,
+                0.8433123855707853
+              ],
+              [
+                0.19703278049228087,
+                0.840021772477609
+              ],
+              [
+                0.2005711926226688,
+                0.8386981048047899
+              ],
+              [
+                0.20137407381919115,
+                0.8386486219011332
+              ]
+            ]
+          }
+        ],
         "images": [],
         "nodes": [
           {
@@ -5580,6 +5836,76 @@
             "h": 0.14,
             "color": "#153f48",
             "text": "Daniel"
+          },
+          {
+            "id": "ce14b70b-4c72-4412-b274-bb7f178e3fe8",
+            "kind": "text",
+            "x": 0.14141330030050697,
+            "y": 0.08442377158691672,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": ""
+          },
+          {
+            "id": "094f1fd4-acfe-4fc7-8134-7e6996fe104d",
+            "kind": "text",
+            "x": 0.20496708187094256,
+            "y": 0.09884803800287001,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "build the background"
+          },
+          {
+            "id": "9ff0add9-48a9-43c8-b43d-101ab634e0fb",
+            "kind": "text",
+            "x": 0.18873167710412223,
+            "y": 0.2677703003612252,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "build the idea"
+          },
+          {
+            "id": "c28ee56d-0807-4080-b4e7-779a07b0109f",
+            "kind": "text",
+            "x": 0.1753350308535774,
+            "y": 0.4041946657429858,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "find assets"
+          },
+          {
+            "id": "23ddfe05-161a-48c0-b5d3-a41e78032313",
+            "kind": "text",
+            "x": 0.2151522033353979,
+            "y": 0.6022499876292742,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": ""
+          },
+          {
+            "id": "5cb3e4d3-2558-48c5-b1ba-3813e3ee939c",
+            "kind": "text",
+            "x": 0.18940265638978734,
+            "y": 0.6059983175812758,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "test end results"
+          },
+          {
+            "id": "cc921813-01ca-4a59-99de-30a83feccfab",
+            "kind": "text",
+            "x": 0.19164498887436057,
+            "y": 0.76908159730813,
+            "w": 0.18,
+            "h": 0.14,
+            "color": "#153f48",
+            "text": "checks the output"
           }
         ],
         "edges": []
@@ -5704,7 +6030,16 @@
           "size": 1
         }
       },
-      "tasks": [],
+      "tasks": [
+        {
+          "id": "d4c98ed5-1007-4497-903a-ba66c8a88bb3",
+          "task": "Build the background",
+          "owner": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+          "due": "2026-11-12T20:30",
+          "done": false,
+          "result": ""
+        }
+      ],
       "planRevision": 2,
       "codeTables": [
         {
@@ -11455,7 +11790,7 @@
       "opinion": "Based on all the information I learned, I would connect this to when I make my own game. This pipeline can help me create a new story because I now know where to get started when it comes to game development. I know how to use the basic functions of Unity and also how to create folders, logs, and document the process according. If I were to create a game of my own, this information would help me get started and I can continue learning from that point, because growing while going through the game development is a part of the mindset you should have in order to be successful. ",
       "questions": "\"If a folder is copied and moved, but the system creating it doesn't recognize that change, even if you reopen the new folder, how do you undo this?\" is a question I had because I accidently did this on an assignment before and had to redo my work on the new folder. But other then technical questions, a question I have regarding teamwork that I would ask someone is: their motivations and how much effort they put into the work, and how they believe that they provide something valuable. "
     },
-    "currentPage": 37,
+    "currentPage": 38,
     "prepBoard": {
       "notes": "Everything starts with mindset: it is what gets you started and working, that relates to growth and collaboration because that's what you have to do\ngame development is the main process so it relates to everything mentioned\ndocumentation and folders both relate to collaboration and organization because they help you stay focused\nUnity is connect to game development and growth because you learn new features as you go on",
       "strokes": [
@@ -16958,8 +17293,264 @@
       "boardNotes": "We all had planned to call over Zoom, however, we ran into technical difficulties so we decided to switch to Discord instead. We were on a call for over 2 hours working out our goals and coming up with ideas for our creation. We talked about what elements we want to include in our game, and we also created task boards to help us stay organized. We gave each other different jobs so we can work on separate things, we also discussed how we will be moving forward from this point on as a team. "
     },
     "huddleBoard": {
-      "notes": "",
-      "strokes": [],
+      "notes": "The jobs everyone will be performing:",
+      "strokes": [
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 5.286343612334802,
+          "points": [
+            [
+              0.15777188998233663,
+              0.18432381612153
+            ],
+            [
+              0.15810451219232446,
+              0.18432381612153
+            ],
+            [
+              0.1612701580528984,
+              0.18432381612153
+            ],
+            [
+              0.16596127818686487,
+              0.18432381612153
+            ],
+            [
+              0.17018787419998624,
+              0.18432381612153
+            ],
+            [
+              0.17532631385772945,
+              0.18432381612153
+            ],
+            [
+              0.18057371596357213,
+              0.18432381612153
+            ],
+            [
+              0.18496662308168743,
+              0.18521450838735218
+            ],
+            [
+              0.1879946321657147,
+              0.18578356177940522
+            ],
+            [
+              0.1909423531300897,
+              0.18601860557177496
+            ],
+            [
+              0.19400477140825362,
+              0.18601860557177496
+            ],
+            [
+              0.19638474066937353,
+              0.18601860557177496
+            ],
+            [
+              0.19794462413690272,
+              0.18601860557177496
+            ],
+            [
+              0.19910306700617073,
+              0.18629076154188728
+            ],
+            [
+              0.19929805243961188,
+              0.18827007768815873
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 5.286343612334802,
+          "points": [
+            [
+              0.14786777693666414,
+              0.33861150972339055
+            ],
+            [
+              0.15104489252861697,
+              0.33861150972339055
+            ],
+            [
+              0.15524854907898056,
+              0.33861150972339055
+            ],
+            [
+              0.160891656917395,
+              0.33861150972339055
+            ],
+            [
+              0.1713405822035648,
+              0.33861150972339055
+            ],
+            [
+              0.1788704608538068,
+              0.33861150972339055
+            ],
+            [
+              0.18551143532218475,
+              0.33861150972339055
+            ],
+            [
+              0.19196889408850046,
+              0.33861150972339055
+            ],
+            [
+              0.1969754318353864,
+              0.33861150972339055
+            ],
+            [
+              0.20121349757988669,
+              0.33861150972339055
+            ],
+            [
+              0.20452251508269675,
+              0.33904448513038743
+            ],
+            [
+              0.20509600165164132,
+              0.3408877232916028
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 5.286343612334802,
+          "points": [
+            [
+              0.15057463354208245,
+              0.49429709535355537
+            ],
+            [
+              0.1526219805932145,
+              0.49429709535355537
+            ],
+            [
+              0.15864358956713234,
+              0.49429709535355537
+            ],
+            [
+              0.1629160645057693,
+              0.49429709535355537
+            ],
+            [
+              0.17065813318652076,
+              0.49429709535355537
+            ],
+            [
+              0.17749982795402933,
+              0.49429709535355537
+            ],
+            [
+              0.18490927442479296,
+              0.49429709535355537
+            ],
+            [
+              0.19582272383180785,
+              0.49355485179870356
+            ],
+            [
+              0.2011676186543711,
+              0.49328269582859124
+            ],
+            [
+              0.20272176725621086,
+              0.49328269582859124
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 5.286343612334802,
+          "points": [
+            [
+              0.1489803408804166,
+              0.6741179672423178
+            ],
+            [
+              0.151148120111027,
+              0.6741179672423178
+            ],
+            [
+              0.16461358474984517,
+              0.6741179672423178
+            ],
+            [
+              0.17618080884545684,
+              0.6741179672423178
+            ],
+            [
+              0.18334939095726377,
+              0.6741179672423178
+            ],
+            [
+              0.1893079164085977,
+              0.6741179672423178
+            ],
+            [
+              0.1984492923175739,
+              0.6741179672423178
+            ],
+            [
+              0.20243502397173857,
+              0.6741179672423178
+            ],
+            [
+              0.2043504691120134,
+              0.6744890890197437
+            ]
+          ]
+        },
+        {
+          "tool": "pen",
+          "color": "#153f48",
+          "width": 5.286343612334802,
+          "points": [
+            [
+              0.14438097859748125,
+              0.8475802860111832
+            ],
+            [
+              0.1445415548367857,
+              0.8475802860111832
+            ],
+            [
+              0.1543825843598743,
+              0.8475802860111832
+            ],
+            [
+              0.16516413185603193,
+              0.8460339452719086
+            ],
+            [
+              0.17756864634230266,
+              0.84424019001435
+            ],
+            [
+              0.18736379693987568,
+              0.8433123855707853
+            ],
+            [
+              0.19703278049228087,
+              0.840021772477609
+            ],
+            [
+              0.2005711926226688,
+              0.8386981048047899
+            ],
+            [
+              0.20137407381919115,
+              0.8386486219011332
+            ]
+          ]
+        }
+      ],
       "images": [],
       "nodes": [
         {
@@ -17011,6 +17602,76 @@
           "h": 0.14,
           "color": "#153f48",
           "text": "Daniel"
+        },
+        {
+          "id": "ce14b70b-4c72-4412-b274-bb7f178e3fe8",
+          "kind": "text",
+          "x": 0.14141330030050697,
+          "y": 0.08442377158691672,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "094f1fd4-acfe-4fc7-8134-7e6996fe104d",
+          "kind": "text",
+          "x": 0.20496708187094256,
+          "y": 0.09884803800287001,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "build the background"
+        },
+        {
+          "id": "9ff0add9-48a9-43c8-b43d-101ab634e0fb",
+          "kind": "text",
+          "x": 0.18873167710412223,
+          "y": 0.2677703003612252,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "build the idea"
+        },
+        {
+          "id": "c28ee56d-0807-4080-b4e7-779a07b0109f",
+          "kind": "text",
+          "x": 0.1753350308535774,
+          "y": 0.4041946657429858,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "find assets"
+        },
+        {
+          "id": "23ddfe05-161a-48c0-b5d3-a41e78032313",
+          "kind": "text",
+          "x": 0.2151522033353979,
+          "y": 0.6022499876292742,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "5cb3e4d3-2558-48c5-b1ba-3813e3ee939c",
+          "kind": "text",
+          "x": 0.18940265638978734,
+          "y": 0.6059983175812758,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "test end results"
+        },
+        {
+          "id": "cc921813-01ca-4a59-99de-30a83feccfab",
+          "kind": "text",
+          "x": 0.19164498887436057,
+          "y": 0.76908159730813,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "checks the output"
         }
       ],
       "edges": []
@@ -17135,7 +17796,16 @@
         "size": 1
       }
     },
-    "tasks": [],
+    "tasks": [
+      {
+        "id": "d4c98ed5-1007-4497-903a-ba66c8a88bb3",
+        "task": "Build the background",
+        "owner": "PERSON-19C8EBB68AF22F86DC5AF3B7",
+        "due": "2026-11-12T20:30",
+        "done": false,
+        "result": ""
+      }
+    ],
     "planRevision": 2,
     "codeTables": [
       {
@@ -17275,7 +17945,7 @@
   "prefs": {
     "schemaVersion": 1,
     "theme": "development-road",
-    "lastPage": 37,
+    "lastPage": 38,
     "timerMinutes": 10
   }
 }
