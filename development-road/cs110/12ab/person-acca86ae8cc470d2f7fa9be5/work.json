@@ -5519,7 +5519,7 @@
       "huddle": {
         "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
         "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+        "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
       },
       "huddleBoard": {
         "notes": "",
@@ -5563,11 +5563,11 @@
             "y": 0.29,
             "w": 0.16,
             "h": 0.17,
-            "text": "Inputs / assets",
+            "text": "Assets",
             "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T13:45",
-            "end": "2026-11-10T14:45"
+            "owner": "Mio",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
@@ -5576,11 +5576,11 @@
             "y": 0.29,
             "w": 0.16,
             "h": 0.17,
-            "text": "Build + configure",
+            "text": "Body Frame",
             "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T14:45",
-            "end": "2026-11-10T15:45"
+            "owner": "Isaias",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
@@ -5589,11 +5589,11 @@
             "y": 0.29,
             "w": 0.16,
             "h": 0.17,
-            "text": "Output / scene",
+            "text": "Output",
             "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T15:45",
-            "end": "2026-11-10T16:45"
+            "owner": "Daniel",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
@@ -5602,11 +5602,11 @@
             "y": 0.29,
             "w": 0.16,
             "h": 0.17,
-            "text": "Test + handoff",
+            "text": "Results",
             "color": "#175363",
-            "owner": "",
-            "start": "2026-11-10T16:45",
-            "end": "2026-11-10T17:45"
+            "owner": "Paul",
+            "start": "2026-11-11T15:45",
+            "end": "2026-11-11T16:30"
           },
           {
             "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
@@ -16781,7 +16781,7 @@
     "huddle": {
       "mission": "A story we want to create is a mod for minecraft where you are able to throw a pokéball at the mobs. ",
       "framework": "My team and I chose the P2P framework because we want to do things in smaller steps. We would like to break down each step so we can organize better and overall just have better planning. ",
-      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nInputs / assets · 2026-11-10T13:45 to 2026-11-10T14:45 Pacific\nBuild + configure · 2026-11-10T14:45 to 2026-11-10T15:45 Pacific\nOutput / scene · 2026-11-10T15:45 to 2026-11-10T16:45 Pacific\nTest + handoff · 2026-11-10T16:45 to 2026-11-10T17:45 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
+      "pipeline": "Unnamed stage\nBackground · owner Jonathan · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nAssets · owner Mio · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nBody Frame · owner Isaias · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nOutput · owner Daniel · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nResults · owner Paul · 2026-11-11T15:45 to 2026-11-11T16:30 Pacific\nNew stage · 2026-11-10T17:45 to 2026-11-10T18:45 Pacific"
     },
     "huddleBoard": {
       "notes": "",
@@ -16825,11 +16825,11 @@
           "y": 0.29,
           "w": 0.16,
           "h": 0.17,
-          "text": "Inputs / assets",
+          "text": "Assets",
           "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T13:45",
-          "end": "2026-11-10T14:45"
+          "owner": "Mio",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "8d259ec0-6510-4470-8592-6f568f3ee732",
@@ -16838,11 +16838,11 @@
           "y": 0.29,
           "w": 0.16,
           "h": 0.17,
-          "text": "Build + configure",
+          "text": "Body Frame",
           "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T14:45",
-          "end": "2026-11-10T15:45"
+          "owner": "Isaias",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "7c8df198-0773-43a7-987f-30b10ca856f2",
@@ -16851,11 +16851,11 @@
           "y": 0.29,
           "w": 0.16,
           "h": 0.17,
-          "text": "Output / scene",
+          "text": "Output",
           "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T15:45",
-          "end": "2026-11-10T16:45"
+          "owner": "Daniel",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "1bc39285-7fec-4e05-b708-693c918ad66e",
@@ -16864,11 +16864,11 @@
           "y": 0.29,
           "w": 0.16,
           "h": 0.17,
-          "text": "Test + handoff",
+          "text": "Results",
           "color": "#175363",
-          "owner": "",
-          "start": "2026-11-10T16:45",
-          "end": "2026-11-10T17:45"
+          "owner": "Paul",
+          "start": "2026-11-11T15:45",
+          "end": "2026-11-11T16:30"
         },
         {
           "id": "6ef02ce8-7e67-4acc-8fc0-90777b2ca058",
